@@ -1,0 +1,13 @@
+new entry "JTL_AB_CRATE_WOOD"
+type "Object"
+using "_Container"
+data "RootTemplate" "07d68d20-c271-4db0-a50e-66cbd944e7ed"
+data "ValueUUID" "4c5217d8-0232-4592-9e32-2fd729123f53"
+data "MinLevel" "1"
+
+new entry "JTL_AB_JewelryBox"
+type "Object"
+using "_Container"
+data "RootTemplate" "8a33d1ab-5f95-4767-9b9b-a3cb89131119"
+data "ValueUUID" "4c5217d8-0232-4592-9e32-2fd729123f53"
+

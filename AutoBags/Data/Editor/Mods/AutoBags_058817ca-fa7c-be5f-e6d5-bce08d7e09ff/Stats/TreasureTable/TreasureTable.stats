@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c841ec55-cceb-4e7a-940e-3d047cab2bfe" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_CRATE_WOOD" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c841ec55-cceb-4e7a-940e-3d047cab2bfe" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d9137ff-34e2-48cd-b39f-a9209171789e" />
+        <field name="Name" type="NameTableFieldDefinition" value="c841ec55-cceb-4e7a-940e-3d047cab2bfe_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JTL_AB_JewelryBox" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

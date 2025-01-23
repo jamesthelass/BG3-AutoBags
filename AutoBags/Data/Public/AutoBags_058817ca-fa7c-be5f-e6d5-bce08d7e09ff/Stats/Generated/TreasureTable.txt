@@ -1,0 +1,5 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "JTL_AB_CRATE_WOOD"
+CanMerge 1
+new subtable "1,1"
+object category "I_JTL_AB_JewelryBox",1,0,0,0,0,0,0,0

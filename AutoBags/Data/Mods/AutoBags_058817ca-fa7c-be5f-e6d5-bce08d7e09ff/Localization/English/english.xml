@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h44609ad3g4989g5166g206bg1ea4c96f3eab" version="4">Alchemical Coating Chest</content>
+  <content contentuid="hfac0745cg74bdg2075gb570g93fa611edd8b" version="4">A double walled, reinforced storage container for various unguents and oils used to coat weapons and arrowheads.</content>
+  <content contentuid="he526778agf629g8b56gfbc3gbc9417976c73" version="3">Safely store your weapon and arrowhead poisons and other substances.</content>
+  <content contentuid="h960bd8a0g3a2fgc655g14d7g229c657fe81d" version="2">JtL's Bags</content>
+  <content contentuid="hddba5baage0b5gd340gbf2cg0abe41fd79f9" version="2">Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty warehouse.</content>
+  <content contentuid="h13e0cabcgc363g6442g347dg81604d2440c4" version="3">Traveller's Chest</content>
+  <content contentuid="h0529525egbe3cgf9b1g86a9g56ab492ee75d" version="3">A chest suitable for lashing to carts and wagons. </content>
+  <content contentuid="h3ac15c1egf8aag09a1g7a3dg5b29eee257fd" version="2">Jewelry Box</content>
+  <content contentuid="h12170d78g8121ga0f9g423fg0d99d13cc593" version="2">A place to store jewelry and other small valuables.</content>
+  <content contentuid="h845384ccg4ddfgf49ega628g7aa9faa88231" version="2">The silvery gleam and delicate tracery of this decorative locking jewelry box belies its durability. Intended for use while traveling, it is lined in luxurious crushed velvet to give your sparkling baubles a safe place to rest.</content>
+  <content contentuid="h1420b3e5gf926g49a2gaa2ag04b1671538ca" version="3">Sweetly Tailored Outfit</content>
+  <content contentuid="ha2fd08ecgfa7eg454fg94c8gdd79f32c78bd" version="3">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
+  <content contentuid="h82e086edgc660g429fg8916g184013382a46" version="3">Chocolatier Style Doublet</content>
+  <content contentuid="hf5bb5471gff95g4134g974egcf3b2b7dcf5c" version="3">This lovely ensemble is evocative of the apron of a master chocolatier - and just as scrumptious.</content>
+  <content contentuid="h06398283g2d35g4f11g9bcag076c1c3863de" version="3">Winter Gala Doublet</content>
+  <content contentuid="hcc132b5age9f8g4ddcg8027gb374f328f1ee" version="3">Crisply white with snatches of blue, this garment would not be out of place at a winter festival gala celebrating the wearer's sense of style.</content>
+  <content contentuid="h8eba68c3g3f0cg43cdg9f53g8f8befb7acdc" version="4">Homely Clothes</content>
+  <content contentuid="h793cb47fg9acbg4831g9db8ga84315ed4d4c" version="3">Perfect for ambling around a campsite, enjoying the starlight and good conversation.</content>
+  <content contentuid="hbffef0b3gb8e1g4bb0g8e04g1d75f6ee2d23" version="3">Astarion's Eccentric Clothes</content>
+  <content contentuid="h592251d9g255bg4a4agb34cg023f9cd87e49" version="4">A once-fine shirt that's seen years of cuts, tears, and careful repairs. Clearly someone cares about looking good.</content>
+  <content contentuid="h75b7e329g6cceg47edg8cffg0e4cf3f1e050" version="3">Gale's Austere Clothes</content>
+  <content contentuid="h91cc5758g7aafg4896gaad5gf5ac90619800" version="4">Somehow Gale has managed to make his clothes smell like a library. To inhale their aroma is to feel a sudden urge to speak more quietly. Or pay a fine.</content>
+  <content contentuid="h084c0ca3g293bg4d0agb8a2g47c58fb1b38a" version="3">Halsin's Grove Garments</content>
+  <content contentuid="hcb1012f5gc995g4719gbb45g4a7e5ecc618d" version="3">Feeling the fabric, the strangest feeling occurs: your thumbs brush sun-dappled leaves, skim the water of a creek, tangle in the fur of some panting animal, heat and breath.</content>
+  <content contentuid="hf59a062bg72dfg4fa1gab9dg6b6445af2185" version="3">Jaheira's Respectable Clothes</content>
+  <content contentuid="h9c7da3c3g91cdg4412gb9d7g1162654be0fc" version="3">Though humble in appearance, these clothes bear little hints at Jaheira's fashionability. Minimalism offset by the subtle hues shining brighter at night and softening in sunbeams.</content>
+  <content contentuid="h82dd1d6dg7624g4588ga4d4ga5638ab5dd72" version="3">Karlach's Infernal Trousers</content>
+  <content contentuid="ha6791064gd405g4387gbf23gf60ff47fac7b" version="3">Torn and hell-scented, these trousers have seen a good deal of action - though not perhaps the sort Karlach might prefer.</content>
+  <content contentuid="h3f6e527ag4c29g4b0eg8ac0gc2ac08c6a7bf" version="3">Lae'zel's Clothes</content>
+  <content contentuid="h75e65fd3g5770g451egaca3g3e200b2a7cb0" version="3">As exciting as a trade deposition and as functional as a brick.</content>
+  <content contentuid="hd45a8642gfc09g40fega6d2gba27f833ceae" version="3">Minsc's Fantastical Relaxation Garb</content>
+  <content contentuid="hef94df92g56ffg4247gb8edgbe395c3f867e" version="3">To the metaphorical eye, an absolute fantasia of an outfit, declaiming Minsc as a style icon without equal. To the literal eye, this is a belt-buckle shirt/pants combo.</content>
+  <content contentuid="hb00d6196gea60g4fdag98e1g5829a3170e39" version="3">Minthara's At-Ease Clothes</content>
+  <content contentuid="hfe09fc6dg24c9g49e9g8ecege0563fa63986" version="4">While there is little of the spidery Goddess Lolth's influence in this outfit, there is something of spiney inflexible culture of the drow in it.</content>
+  <content contentuid="hf4cf66fdg083fg4cdeg9e1fg0e92b8e216e6" version="3">Shadowheart's Clothes</content>
+  <content contentuid="h3de8d36cg65c1g4503g9cb1g950890874508" version="3">A little bar of standard-issue cloister soap is tucked into this outfit. It smells like lime and religious fervour.</content>
+  <content contentuid="h39d0a7ffgc76cg4828g8b8bg6f16f9444d14" version="3">Wyll's Earthy Garb</content>
+  <content contentuid="h6ef9cfedgc9aeg4499gba6fg4ec79a01e1d8" version="3">In his good-humoured performativity, Wyll could not resist a puff of perfume on these clothes. Possibly &lt;i&gt;eau du Frontiers&lt;/i&gt;.</content>
+  <content contentuid="hdbde7e32g1b7eg47b5g81abg476be74883cd" version="3">Comfortable Blue-Red Outfit</content>
+  <content contentuid="hce89c883g6db3g48daga216gec3da7c7d4b2" version="3">Stylish without being altogether noteworthy, though the embroidery is actually very fine in certain lights.</content>
+  <content contentuid="h2f06859dg9f9fg43fcg9e18gdccfc3a26d11" version="3">Spring Slimfit Outfit</content>
+  <content contentuid="h85f90affgc4a1g46f1ga0dfg8ae83563410e" version="3">Accentuating all features, turning stockiness into slenderness, turning a beer-belly into... well, an ale gut, but even so! A win overall!</content>
+  <content contentuid="hb9f3cbf1gd732g4917g954bg62435acc5eed" version="3">Teal Slimfit Outfit</content>
+  <content contentuid="h65e0b680g2a46g4d89g80dcg1010855a7da5" version="3">Comfortable Ashmeadow Outfit</content>
+  <content contentuid="he4fdf7d6g8445g42fcgb58cga3da664e26ab" version="3">Swarthy Wayfarer in Cream</content>
+  <content contentuid="h807d6d94gb6b1g4defga11bg749af7b5f727" version="3">A most adventuresome and spring-heeled variety of ensemble, perfect for journey-makers and risk-takers.</content>
+  <content contentuid="h59242fefgd51fg444dg9870g0319d753f16b" version="3">Swarthy Wayfarer in Blue</content>
+  <content contentuid="h100dc877g2ea4g45f8g8b8cg21f670fc4372" version="3">Swarthy Wayfarer in Green</content>
+  <content contentuid="h64e19e1fg02d4g4d75gbadfg1f4e02c0731f" version="3">Swarthy Wayfarer in Red</content>
+  <content contentuid="h2832396eg4511g498aga73bg7893f5f088ed" version="3">Comfortable Autumnal Outfit</content>
+  <content contentuid="h51541e13g12c5g41acg854cg283fe008c19e" version="3">Absolute Outfit</content>
+  <content contentuid="h2ac5c616gc11fg48adga5b0g4b48a3df546d" version="3">Adorned with the tripartite symbol of the Absolute, this ensemble of black and green presents the wearer as either a mocker or a devotee of the cult. Or someone who likes the cut and colour. Or someone who is cold.</content>
+  <content contentuid="h4be311b5gc48cg4809g996bgaa12af07b157" version="3">Angelic Scion Outfit</content>
+  <content contentuid="h5e57f7e0gdfcfg4d33gabbag7ab69e6b3b88" version="3">Golden vambraces and arm rings surmount this divine set.</content>
+  <content contentuid="h992d841eg766eg474fgab39gdaaa7c240251" version="3">Drow Outfit</content>
+  <content contentuid="h5965feffgf79ag4032g9314gd0cf3e93e563" version="3">With its harsh, almost arachnid cut and shape, this outfit evokes the spiderlike denizens of the Underdark.</content>
+  <content contentuid="h1f687eb7gc5d4g49c0gb775g1e40c816c20e" version="3">Leathery Garb</content>
+  <content contentuid="h865bc5c7g5567g4c41gad09ge6a095d5ca41" version="3">So tight... </content>
+  <content contentuid="h04aa9c42g48a8g4a64g8cafg56d17a850652" version="3">Strapped Choker Leather Ensemble</content>
+  <content contentuid="ha532cf91ge60cg4c8cga7e4g980bb6de5843" version="3">Blue Flare Leather Outfit</content>
+  <content contentuid="h9346970cgb196g4742gb5f3g53d715bd58da" version="3">A minimalist leather binding get-up that clings to the skin and creaks just the slightest bit when you move.</content>
+  <content contentuid="h274d4a4eg4d21g4a34gb731g2024567e0019" version="3">Green Flare Leather Outfit</content>
+  <content contentuid="hd983e08bg95d2g45dbga3edgf9d0ed294487" version="3">A minimalist leather binding get-up that clings to the skin and creaks just the slightest bit when you move.</content>
+  <content contentuid="h1aea3853ga1cag4a9eg82ffg3c8795074ee3" version="3">Black Flare Leather Outfit</content>
+  <content contentuid="hd0dd172dg0431g45d9g918eg8a7bd80f6341" version="3">A minimalist leather binding get-up that clings to the skin and creaks just the slightest bit when you move.</content>
+  <content contentuid="h132f6a3bg4db7g4172ga470gf5757e5aeee6" version="3">Bright Flare Leather Outfit</content>
+  <content contentuid="h86c66389gd5deg4ee6g969dg682b9f9138ee" version="3">A minimalist leather binding get-up that clings to the skin and creaks just the slightest bit when you move.</content>
+  <content contentuid="hab2f4ce0gea68g45ebga52cgb068b3d57779" version="3">Umber Trousers</content>
+  <content contentuid="h1ce3586eg9f5eg45ccg9bbbg8b7f8a61f65a" version="3">Magnificently Realised Ensemble</content>
+  <content contentuid="h98eb4bb0gce86g4b43gb4d9g1b5465977da0" version="3">Some craftsperson of the highest calibre envisioned and created this, and anyone who wears it shall be the envy of not only their friends, but their enemies too.</content>
+  <content contentuid="h860e0ff5g709fg4991g88ebg82dc73e6c8b7" version="3">Eminent Obsidian Outfit</content>
+  <content contentuid="haf236c99g20a5g4552g8082gc0f36943f968" version="3">Black as volcanic glass and just as valuable, this ensemble would turn the eye of an entire court.</content>
+  <content contentuid="h9c94652dga944g476cg8710gbbf82f370828" version="3">Opalescent Outfit</content>
+  <content contentuid="hb2ce8eb9g8c5dg445cgba4bg6088dd550796" version="3">When held out in the sun, the sleeves almost glitter, so richly woven is the fabric of this outfit.</content>
+  <content contentuid="hd9f7c75agc910g4e7cga5f8gcb2ca83c17b5" version="3">Eminent Emerald Outfit</content>
+  <content contentuid="h5f246760g2f48g4befg8f6ag995ac8bccbe8" version="3">Each stitch not embellished with filigree and gold weave is gorgeous as the polished scales of a green dragon fully grown.</content>
+  <content contentuid="h6d512248gfd71g40d5g94beg010b3c5e370f" version="3">City of Brass Outfit</content>
+  <content contentuid="h47cd1d11g52ccg4c2cg8126g784f5c987568" version="3">Though the name is an exaggeration (the fabled city's heat would burn the fabric black stitch by stitch), the sheer magnificence of this ensemble's appeal is not.</content>
+  <content contentuid="h28496d0cg9169g49b9g9bf3g852bbb449d3e" version="3">Rustic Dark Outfit</content>
+  <content contentuid="h65dc3daegfc05g497fga1ebge3c00481bc53" version="3">Road-Dust Grey Clothes</content>
+  <content contentuid="h3d42c90cgbe17g4817g921eg547b1193c185" version="3">Grey with accumulated road dust, these clothes are nothing special.</content>
+  <content contentuid="hb4b551cbgb1b3g41f1gbc2eg04569fc4f6f6" version="3">Scruffy Vagabond Clothes</content>
+  <content contentuid="h24019e2dg89f1g4b7fg827cged4d874c4f52" version="3">Patchwork and threadbare, these clothes practically dangle off their wearer.</content>
+  <content contentuid="he659b191g5b76g4014gaf29g670b624146c2" version="3">Splendid Outfit</content>
+  <content contentuid="hd2e1de05g288bg42b7gb58bga2ad7a38d2ff" version="3">Keenly administered to by the sort of fingers that were born stitching, crocheting, and generally making nice clothes.</content>
+  <content contentuid="h4fa63b8cgeac0g4eb7gb8c3gee0a7feb86f8" version="3">Splendid Gold Outfit</content>
+  <content contentuid="h124f6c38g72aag4854g9b6bge92d043f4cd7" version="3">This outfit makes the wearer feel like a ray of sunlight swanning around camp.</content>
+  <content contentuid="hda394fcag98bfg4993g814ag978bcf541d31" version="3">Splendid Green Outfit </content>
+  <content contentuid="h50bbd4afgaeffg4243g9a76g343efa431bf9" version="3">This outfit makes the wearer feel like a brilliant green turaco bird.</content>
+  <content contentuid="h4d505787g9db4g4c8agb4bfg08f1ce80cf11" version="3">Splendid Teal Outfit</content>
+  <content contentuid="h68f7a144g6df4g4890g8bbcg6d76a62dea68" version="3">This outfit makes the wearer feel like a bouquet of puya flowers, except with legs, and great style.</content>
+  <content contentuid="hc5916ebcg4b58g4210g8383g31455a2d8afd" version="3">Delicately Constructed Outfit</content>
+  <content contentuid="h3c8d97c0g3ee9g43abgb387g710ed9797e8f" version="3">Capably crafted, giving the impression of affirming wealth,</content>
+  <content contentuid="h7fed8d37g61bcg4fb7g90bdgf21bf076b879" version="3">Splendid Purple Outfit</content>
+  <content contentuid="h871b1b86g2567g45f3g833dg16ce6847f198" version="3">Tailored with immaculate skill, this outfit makes you feel like a Luskan noble walking their manor instead of a wilderland camp.</content>
+  <content contentuid="h090b6546g436ag4e98g93abge823d92df6ec" version="3">Fastidiously Perfect Outfit</content>
+  <content contentuid="hb74fd87eg1a45g4cedg8601g42b94de64e1e" version="3">Nimble fingers designed and created this outfit. </content>
+  <content contentuid="h5a65e46dgd740g48acga648g087abd95efac" version="3">Splendid Beige Outfit</content>
+  <content contentuid="h54a77a22gbc35g449cgae1fg9ba1c68d4905" version="3">Tailored with immaculate skill, this outfit makes you feel like someone who has elevated beige. Beige is an atrocious colour, yet here it is, very impressive and pleasing on the eye.</content>
+  <content contentuid="hdf826973gf826g45fagab6ag83a521978d6a" version="3">Chandelier-Style Embroidered Ensemble</content>
+  <content contentuid="hb6bfb6e9gab00g4dc6g9bcegecd81aca0f93" version="3">Modelled on the chandeliers in the Waterdhavian Sea Ward - aesthetically pleasing and most grand.</content>
+  <content contentuid="he9b0a00ege675g42f1g922dg271e08375368" version="3">Splendid Blue Outfit</content>
+  <content contentuid="h0a7211deg4debg4c99gbf1fg2d50380a93f7" version="3">This outfit makes you feel like a piece of the summer sky transmuted into silk.</content>
+  <content contentuid="h39d5697bg40eag404eg89b1g7655847235b6" version="3">Splendid Red Outfit</content>
+  <content contentuid="h241ef14eg75f8g463bg95ffgc152a2f9c364" version="3">This outfit makes you feel like a red dragon's fiery breath, only the deadliness lies in sheer aesthetic beauty.</content>
+  <content contentuid="hd0db36a8g008eg4060gb099g494529861f72" version="3">Backless Extravaganza</content>
+  <content contentuid="h59257b9eg8ceeg4fd3gb754gd494314ab1da" version="3">Backless so that people can pat you on the back and proclaim, 'I say, lovely outfit.'</content>
+  <content contentuid="h13f8876fgf255g4707g860eg0edb44661e54" version="3">Anarchic Blue Outfit</content>
+  <content contentuid="h09e114b9g7781g4b7egaaf5gb92981f3e226" version="3">There is something of the blue-blooded rebel in this outfit, of the bandit princess or prince stealing plunder and hearts.</content>
+  <content contentuid="h60cf0a9ag6e4dg4e76ga13bgcc54fc6b752c" version="3">Anarchic Green Outfit</content>
+  <content contentuid="haa7c16bbg9ad1g42cegbbedge578d9c1721a" version="3">There is something of the green-grinning rebel in this outfit, of the bandit princess or prince stealing plunder and hearts.</content>
+  <content contentuid="h88eb1369g0ee8g4362g9aeeg82623571f3bb" version="3">Anarchic Purple Outfit</content>
+  <content contentuid="h886ef023g555dg46edgb193gda62df8a3967" version="3">There is something of the purple-peacock rebel in this outfit, of the bandit princess or prince stealing plunder and hearts.</content>
+  <content contentuid="h063c2656g227ag416egb1d4g26ae6193dba8" version="3">Anarchic White Outfit</content>
+  <content contentuid="h660a7724gb70fg4244ga6fagbfadf4b4f307" version="3">There is something of the pale-white-toothed rebel in this outfit, of the bandit princess or prince stealing plunder and hearts.</content>
+  <content contentuid="hfd63db99gabc2g46d3gaebeg765a580d93f1" version="3">Lionheart Outfit</content>
+  <content contentuid="ha48811bcg3c98g44eega43fge7ae3ea96eb0" version="3">Presumably named for a courageous person. Regardless, a marvellously decadent outfit.</content>
+  <content contentuid="h31273843gb32cg4d24g9c95g32746937c348" version="3">Lionheart Green-Pink Outfit</content>
+  <content contentuid="ha61ab214g7b83g4c64g8145g93700bd30405" version="3">Robust, sleek, and flattering, this ensemble presents a very fetching figure for the wearer.</content>
+  <content contentuid="h188f0204g885eg4310g99a8gc5518d301e53" version="3">Lionheart Teal Outfit</content>
+  <content contentuid="h7840a425g05a3g4fccgba9ege019ec41934b" version="2">Robust, sleek, and flattering, this ensemble presents a very fetching figure for the wearer.</content>
+  <content contentuid="h35f67d99g7187g478bg97dagc02b9173968c" version="2">Diamond Pattern Garb</content>
+  <content contentuid="h31f58ad9ge504g4f67gb199gbbb09ea3eabe" version="2">Diamonds are like the colour black - they simply go with everything.</content>
+  <content contentuid="hd9085716g3412g47ecg9138g8b29b7f706ed" version="2">Diamond Blue Doublet</content>
+  <content contentuid="hae0b35c2g789dg4282gaa74g7af439391927" version="2">Robust, sleek, and flattering, this ensemble presents a very fetching figure for the wearer.</content>
+  <content contentuid="ha75528d9g407dg425ag887fg2737fd0aeb45" version="2">Raffish Garb</content>
+  <content contentuid="h38f3aaf9g0bc7g4ab9g93a8g52fbd974e51b" version="2">Something slightly perilous and fun imbues this design of garments.</content>
+  <content contentuid="h9b95b44bg8960g426aga4a4ga60ef4f3ad47" version="2">Raffish Midnight Outfit</content>
+  <content contentuid="h31cfa707g969eg43f9ga8cbg7d19f9796faa" version="2">Raffish (meaning sly and disreputable in an alluring way) comes from Raffish Buck Daederum, whose fashion this ensemble mimicks closely.</content>
+  <content contentuid="h59e719bfgcce0g46d7ga02dg3cb28ea9716a" version="2">Raffish Metallic-Shaded Outfit</content>
+  <content contentuid="hc548c42fg4279g44e7g9489g7d565bc9bf71" version="2">Raffish (meaning sly and disreputable in an alluring way) comes from Raffish Buck Daederum, whose fashion this ensemble mimicks closely.</content>
+  <content contentuid="h556239f2gea8dg4a50g888bg838faed964b9" version="2">Raffish Chestnut Outfit</content>
+  <content contentuid="h79534d0ag14d2g4995g9e4ag8f49a9166df9" version="2">Raffish (meaning sly and disreputable in an alluring way) comes from Raffish Buck Daederum, whose fashion this ensemble mimicks closely.</content>
+  <content contentuid="hcb2cf411gb9d8g4315g8fa6g3bd1475a6b63" version="2">Raffish Bronze-Red Outift</content>
+  <content contentuid="h1f5617f8g6150g430cga87cg84c0d969ac31" version="2">Raffish (meaning sly and disreputable in an alluring way) comes from Raffish Buck Daederum, whose fashion this ensemble mimicks closely.</content>
+  <content contentuid="ha0fa6a3fg519cg4642ga450g6767d2b960ef" version="2">Solemnity Outfit</content>
+  <content contentuid="h8c67ba07gb933g4abagab29g6e5773700212" version="2">Austere and no-nonsense, this outfit betokens largesse and poise.</content>
+  <content contentuid="h4cd2c0d4g40beg4169g8f16gab03d5329aa1" version="2">Solemnity Outfit in Blue</content>
+  <content contentuid="hbc2e2aecga82bg47e7g836bgef11b67c1e6e" version="2">One of master Figaro's collection pieces, this outfit maintains the poise and grace of the wearer. Honestly, it elevates it considerably. Bad poise becomes competent poise. Competent becomes strong. Strong becomes spiffing.</content>
+  <content contentuid="hd6d331fbg9587g4f9ag8258g016681ac9ede" version="2">Solemnity Outfit in Green</content>
+  <content contentuid="hc3d5bb02g86ccg41b5gb608ge865ee2c8f03" version="2">One of master Figaro's collection pieces, this outfit maintains the poise and grace of the wearer. Honestly, it elevates it considerably. Bad poise becomes competent poise. Competent becomes strong. Strong becomes spiffing.</content>
+  <content contentuid="h888e886bgc531g408ag9acag5cb836d7805f" version="2">Solemnity Outfit in Purple</content>
+  <content contentuid="h9bdc63e0g9038g482dg8e81g0640618bfd72" version="2">One of master Figaro's collection pieces, this outfit maintains the poise and grace of the wearer. Honestly, it elevates it considerably. Bad poise becomes competent poise. Competent becomes strong. Strong becomes spiffing.</content>
+  <content contentuid="h9c40060fg331bg47degab54gdb29872cf738" version="3">Solemnity Outfit in Gold Medallions</content>
+  <content contentuid="he11bbeedg66e7g43d4gb5afg54ca992c1349" version="2">One of master Figaro's collection pieces, this outfit maintains the poise and grace of the wearer. Honestly, it elevates it considerably. Bad poise becomes competent poise. Competent becomes strong. Strong becomes spiffing.</content>
+  <content contentuid="h13faae8dg2804g457agac32g02c2dcf9ddcf" version="2">Cosy Blue Shirt</content>
+  <content contentuid="h7c2dc306ge08dg48e3gb7abg2d996619a8bd" version="2">At camp, under the deep blue sky fading to indigo at the horizon, this shirt fits right in.</content>
+  <content contentuid="hc70aa693g7351g40caga464gddafe2a1244d" version="2">Comfortable Red Shirt</content>
+  <content contentuid="hb767dd0fg822bg445ag8b1fgf00a2117e20b" version="2">As red as campfire flame.</content>
+  <content contentuid="h8892ca77g4808g4d28g945ag81d51228f59a" version="2">Snug Purple Shirt</content>
+  <content contentuid="h48ee56f7gf85dg447cgb238g962a418ad65c" version="2">Purple as tasty plums shared by a camp tent.</content>
+  <content contentuid="hfc5856b1ge138g4992g929dge150db671d5a" version="2">Snugglesome Green Shirt</content>
+  <content contentuid="h9521595fg95b9g4d82gb263ga22f48c37a23" version="2">Soft and green and ideal for a good sleep under the stars.</content>
+  <content contentuid="h6f74d4f1g6bb6g4386gb915g26bd8df6b28d" version="2">Mellow Black Shirt</content>
+  <content contentuid="h9c5c091cg75b9g40e3g8db5g21f72ab92520" version="2">Dark and inexpensive, yet with a very charming cosiness once worn.</content>
+  <content contentuid="hca28b26dgd075g4b0dg86dcg7d8b1cb92600" version="2">Elfin Woodsoles</content>
+  <content contentuid="h788c9725g89feg4661g96b1gc32b22f2427d" version="2">These shoes make light, almost imperceptible clicking noises as they walk on stone, the wood nice and sculpted.</content>
+  <content contentuid="ha6637e3agcfd5g408ega28cgae7e8e72798a" version="2">Tanner's Delight</content>
+  <content contentuid="hafc774acge18eg467egbc14g3926662adb2e" version="2">The tanners had an excellent time producing this leather - they actually got to use real animal flesh. Usually they work with much grosser stuff.</content>
+  <content contentuid="h32c40548gd0d1g43d7gbf7ag9764eb706c5e" version="2">Delicate Shoes</content>
+  <content contentuid="hae8954e0g859cg47cdgaef1gefe3e2758c3e" version="2">Patterned with twists of gold, lilac and sapphire, these delicate shoes are very reasonable for dancing, romancing, perhaps even prancing.</content>
+  <content contentuid="h9596b66cg116eg4793g8bbcg87eb0301e2d4" version="2">Pointed-Toe Shoes</content>
+  <content contentuid="ha32477dagcdb0g4d1agb7c1g9d10279a228a" version="2">The height of modern Sword Coastian fashion, provided you like being targetted by muggers and thugs and other interesting friendly people.</content>
+  <content contentuid="hc481cdf6g4e9fg413fg84fegbc9d115d6710" version="3">Meshtoe Sandals</content>
+  <content contentuid="h0abf9ecdge6aag4881g8f40gd8a69160c4a5" version="2">A mesh of webbed material protects the toes from errant spiders.</content>
+  <content contentuid="h5ffe6ff6gbd37g4063gbadagc0dca3459d5e" version="3">Slashstrip Sandals</content>
+  <content contentuid="h8d79347agbd20g4a73g962bg4c971f039285" version="2">Slashes of leather gird the feet. A bright silvery button gleams.</content>
+  <content contentuid="hf28f5319gf5b6g4c33g91afg899a85865175" version="2">Worn Slashstrip Sandals</content>
+  <content contentuid="hc2782920g10c0g4526ga78cg801dfd049f7c" version="2">Slashes of leather gird the feet. A bright silvery button gleams - this pair have seen better days.</content>
+  <content contentuid="h69cb6cefgf856g4fa5gbb04g5e6fb41878f8" version="2">Pristine Meshtoe Sandals</content>
+  <content contentuid="h6d8123e1gd556g4515gbd80g15babb520c55" version="2">A mesh of webbed material protects the toes from errant spiders - these seem brand new, and never worn.</content>
+  <content contentuid="ha8169bcegabdcg4811gb25fgd0b6f6bfa290" version="2">Casual Sandals</content>
+  <content contentuid="h8ec5783egc7f0g4578gae20g174a16e1a075" version="2">Strapped and lined in an either piscine or arboreal motif, these sandals are perfect for a warm morning stroll.</content>
+  <content contentuid="h34b4d7c8g6a43g4ef7gb706gf811ea454444" version="3">Firm-Heeled Sandals</content>
+  <content contentuid="h47a42f74ge600g4661ga295gcf6a93d9f9df" version="2">Supported round the heel, these sandals provide good comfort for the unhurried peruser of brooks, streams, and stony woods.</content>
+  <content contentuid="ha49af9ecg3fa9g4275gbd98gcb4f3b23aa82" version="3">Cross-Crest Sandals</content>
+  <content contentuid="h32f1b6a6g2bb2g4486gad83g687419253cf6" version="2">Patterned as many  knightly shields are in the modern era.</content>
+  <content contentuid="h56e94a5ag2cd5g4d4agabf3g5526b2daa470" version="3">Diamond-Stitch Sandals </content>
+  <content contentuid="hb9718642gbcdcg4bf9g8e31g8ee6787d288d" version="2">Cobblers have worked a diamond pattern into the sandals.</content>
+  <content contentuid="hf6f3693bg97c1g49c7g8accg52e8cddcd4a4" version="2">Breezy Sandals</content>
+  <content contentuid="hda1db05fgb3ecg4d84ga528g5ec834ec3e5d" version="3">Gladiatorial Sandals</content>
+  <content contentuid="hebc5b1a5gdc28g40efga7bcg578d48f96194" version="2">Worn by warriors upon the bloodiest sands.</content>
+  <content contentuid="h6a49431aged4fg471cg9decgfbb1c4782bbf" version="3">Seaside Sandals</content>
+  <content contentuid="hcb78dfc2g1b64g48e8g8f47g753852cf5d64" version="2">The fragrance of warm-sanded shores and salt-thick waves permeates these sandals.</content>
+  <content contentuid="ha156bde5g0513g48d2gb83ag677b6b2b945d" version="2">Acolyte's Sandals</content>
+  <content contentuid="h13aebf73g3511g4208g8cbeg6f432ffc5d50" version="2">This lightweight, cushioned footwear was designed for silent footfall in sacred places. </content>
+</contentList>
