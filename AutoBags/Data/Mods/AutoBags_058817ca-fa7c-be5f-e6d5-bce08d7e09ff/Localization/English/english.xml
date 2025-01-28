@@ -3,13 +3,13 @@
   <content contentuid="h44609ad3g4989g5166g206bg1ea4c96f3eab" version="4">Alchemical Coating Chest</content>
   <content contentuid="hfac0745cg74bdg2075gb570g93fa611edd8b" version="4">A double walled, reinforced storage container for various unguents and oils used to coat weapons and arrowheads.</content>
   <content contentuid="he526778agf629g8b56gfbc3gbc9417976c73" version="3">Safely store your weapon and arrowhead poisons and other substances.</content>
-  <content contentuid="h960bd8a0g3a2fgc655g14d7g229c657fe81d" version="2">JtL's Bags</content>
-  <content contentuid="hddba5baage0b5gd340gbf2cg0abe41fd79f9" version="2">Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty warehouse.</content>
+  <content contentuid="h960bd8a0g3a2fgc655g14d7g229c657fe81d" version="3">JtL's Bags</content>
+  <content contentuid="hddba5baage0b5gd340gbf2cg0abe41fd79f9" version="3">Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty warehouse.</content>
   <content contentuid="h13e0cabcgc363g6442g347dg81604d2440c4" version="3">Traveller's Chest</content>
   <content contentuid="h0529525egbe3cgf9b1g86a9g56ab492ee75d" version="3">A chest suitable for lashing to carts and wagons. </content>
-  <content contentuid="h3ac15c1egf8aag09a1g7a3dg5b29eee257fd" version="2">Jewelry Box</content>
-  <content contentuid="h12170d78g8121ga0f9g423fg0d99d13cc593" version="2">A place to store jewelry and other small valuables.</content>
-  <content contentuid="h845384ccg4ddfgf49ega628g7aa9faa88231" version="2">The silvery gleam and delicate tracery of this decorative locking jewelry box belies its durability. Intended for use while traveling, it is lined in luxurious crushed velvet to give your sparkling baubles a safe place to rest.</content>
+  <content contentuid="h3ac15c1egf8aag09a1g7a3dg5b29eee257fd" version="3">Jewelry Box</content>
+  <content contentuid="h12170d78g8121ga0f9g423fg0d99d13cc593" version="3">A place to store jewelry and other small valuables.</content>
+  <content contentuid="h845384ccg4ddfgf49ega628g7aa9faa88231" version="3">The silvery gleam and delicate tracery of this decorative locking jewelry box belies its durability. Intended for use while traveling, it is lined in luxurious crushed velvet to give your sparkling baubles a safe place to rest.</content>
   <content contentuid="h1420b3e5gf926g49a2gaa2ag04b1671538ca" version="3">Sweetly Tailored Outfit</content>
   <content contentuid="ha2fd08ecgfa7eg454fg94c8gdd79f32c78bd" version="3">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
   <content contentuid="h82e086edgc660g429fg8916g184013382a46" version="3">Chocolatier Style Doublet</content>
@@ -186,4 +186,335 @@
   <content contentuid="hcb78dfc2g1b64g48e8g8f47g753852cf5d64" version="2">The fragrance of warm-sanded shores and salt-thick waves permeates these sandals.</content>
   <content contentuid="ha156bde5g0513g48d2gb83ag677b6b2b945d" version="2">Acolyte's Sandals</content>
   <content contentuid="h13aebf73g3511g4208g8cbeg6f432ffc5d50" version="2">This lightweight, cushioned footwear was designed for silent footfall in sacred places. </content>
+  <content contentuid="hd866c23fgff8fg4c12gab41g793bcb530a5d" version="3">Weapon</content>
+  <content contentuid="h23599e42g3311g49a0g9d4fg1a44d322d9f1" version="3">Armour</content>
+  <content contentuid="h2c1af163gda89g4142g8670g492407614241" version="3">Sublimate</content>
+  <content contentuid="h2e6f6800g5362g43e1gbafcg20468d493404" version="2">Brew</content>
+  <content contentuid="h8c94a025g9af6g492agb325g3a8f35ce43b8" version="5">Purified through sudden heating, these extracts have become vaporous, and are often linked to the element of air.</content>
+  <content contentuid="h53369a2cgd283g467cg924cg3938e9bbdc30" version="3">Salt</content>
+  <content contentuid="h805dd129gd385g4b3cgb5b2gf9738d569269" version="2">Brew</content>
+  <content contentuid="h94a67b1fgb245g4179gbf5ag026bdcd25a1c" version="3">The process of refining salts gives them a granular texture, causing them to be linked to the element of earth. </content>
+  <content contentuid="h17759c79g9c66g4cf4ga71bg82b7914319a1" version="3">Essence</content>
+  <content contentuid="h15a07d87gd090g49a3g8275g38714526427d" version="2">Brew</content>
+  <content contentuid="h75e3028fg481fg4082gabc0g78de5e46b45a" version="4">Certain ingredients can be purified until only their essence remains. Due to their esoteric nature, these extracts are often linked to the Feywild.</content>
+  <content contentuid="hd7d538e9gd122g4216g9b2aga1c7aaa5c7ef" version="4">Ashes</content>
+  <content contentuid="hd71aa2cfg64dag488dga40bgf4194624e5d7" version="2">Brew</content>
+  <content contentuid="h474e5c4fg7a8fg4f2fg9341g03c6e0aa40f0" version="4">All impurities have been burned off these extracts, and so they are logically linked to the element of fire.</content>
+  <content contentuid="hee19fd7fg6d6fg4f9fg83d7ge350d0ea4a8d" version="3">Vitriol</content>
+  <content contentuid="hff2936a9g4088g4d8cg94f1gf8acb2e7f55a" version="2">Brew</content>
+  <content contentuid="he8ed9bf0g5974g42ebga1ebge1afc95e390a" version="4">Vitriols differ from other extracts in that refining them seems to make them accumulate all that is vile. Because of this, many have linked them to the Shadowfell. Still, their use cannot be understated.</content>
+  <content contentuid="h7f02c548g5195g434egb3edg30c0a31130e1" version="3">Suspension</content>
+  <content contentuid="hb041a1b4g013cg4fd7gab4ag7ff91030b332" version="2">Brew</content>
+  <content contentuid="h0767b5c7g4ee9g4ee0g9993g0b2df158e233" version="3">Since water is indispensable in creating suspensions, they are commonly linked to that element. </content>
+  <content contentuid="h7fbdfb0bgadc1g4b34g8323g1b20f7ac77da" version="4">Ingredient</content>
+  <content contentuid="h5438d978gb6fdg4e11gb933gf2831b5a4ee9" version="4">Extract</content>
+  <content contentuid="h2b998a66g8321g4a8bgbdf4gdd9178848ba3" version="4">Dye</content>
+  <content contentuid="he1f94c92g0d38g42ccg9450g39ac19f356a1" version="4">Combine this dye with an equipment item to alter the colours of fabric, leather and even metal.</content>
+  <content contentuid="hdf85b2f5g4feeg408eg9e9cg01f240982d93" version="3">Gemstone</content>
+  <content contentuid="hcb6f2310gd07eg4660ga6e6gd3b0c8b4fd8e" version="3">Light reflects off the many facets of this rough-cut gem, imported all the way from the jungles of Chult.</content>
+  <content contentuid="h517e1f21gb0a4g48dbgb689g74b6880d6087" version="3">Necklace</content>
+  <content contentuid="ha5cebb79g762cg4649g9009g7fd881d04c7c" version="3">Smells a bit rusty, but looks stylish nonetheless.</content>
+  <content contentuid="hb1509815g62feg47eagb648g6fd33c9c001a" version="3">Object</content>
+  <content contentuid="h18e9e45dgeb5cg4b03g9cd9gaa739a7f5ce8" version="4">Ring</content>
+  <content contentuid="h6d9e4fd0g1d4fg425cg83c0g2a4b06508978" version="4">Transmuter's Stone</content>
+  <content contentuid="hd387c21cgd5eag4d31gb01egada48e5759e0" version="3">Throw</content>
+  <content contentuid="hb0154388g8214g4370g87e9g79b381db04da" version="3">Valuable</content>
+  <content contentuid="h25c80b69g7197g4e28g9c0cgaef06ddbdf1b" version="4">Wand</content>
+  <content contentuid="hb11b48fbgc40fg44d9gb4e8g560b746c4a59" version="3">Casual Shoes</content>
+  <content contentuid="hc78a5a1cg68f8g466egba64gfde4b8299fcf" version="3">Cloak</content>
+  <content contentuid="hb57a3b6cg599ag4856g8558g951d2064313a" version="3">Gloves</content>
+  <content contentuid="h4fcc8b9bg740cg47dag9436g3b5cfc18ffcb" version="3">Underwear</content>
+  <content contentuid="hf810006cgc670g48cagaf52g12605dda928d" version="5">Unwanted Masterwork Greaves</content>
+  <content contentuid="hb5d837d6g29a9g48acgabf0g27add175019a" version="4">These boots are stamped with the marks of a cancelled commission. Despite their discarded fate, they still hum with complex infernal arcana.</content>
+  <content contentuid="h6cc152e3g2bfeg4db4gbf0fg7ee1fafbcedb" version="4">Unwanted Masterwork Gauntlets</content>
+  <content contentuid="ha63cc8fcg9583g429cgb54bg724f85e88f40" version="3">These gauntlets spark with unfinished, yet still potent devillish magic - indicative of a cancelled blacksmith's commission. </content>
+  <content contentuid="hf1cd68e2g2f05g4ba5g8b63gfd4ed53789cc" version="4">Unwanted Masterwork Scalemail</content>
+  <content contentuid="h796455cegf8d4g4602gbed3gb6b3e6c67133" version="3">Nothing stings the master blacksmith more than a cancelled commission - not even molten iron. This mail is engraved with the mark of a devillish forgemaster, as well as several curses stamped out in Infernal, and hums with diabolic magic.</content>
+  <content contentuid="hf00ecb4cgd9e1g49c0g8c49g5cf1b37a4586" version="4">Aberration Hunters' Amulet</content>
+  <content contentuid="h4f60bc86g2a0cg4803gbfdcgd1e6480eedd1" version="3">Many a githyanki hunter has worn this amulet before you. The strange stones set in swirling silver reverberate with echoes of their magic.</content>
+  <content contentuid="hdefe1a47g9300g4e54ga8a8gb74879e4909b" version="4">Unflinching Protector Amulet</content>
+  <content contentuid="h3bb7cea1g7cafg413fgba43gaf28f680e738" version="3">Touching this amulet's centrepiece, you are imbued with a vision of woven strands, and the strands coming apart and holding true and firm over your friends, like shields banded in a haze of golden light. </content>
+  <content contentuid="h9d7871c7gd5e9g4b06g8769ge0d626307008" version="7">Chancer's Carcanet</content>
+  <content contentuid="hca7b5d5dg1074g4c65g860dg5705e2a82a57" version="3">Imbued with a little luck after the item was pressed to the pursed lips of a saint of the goddess Tymora. Inscribed roughly and inexpertly on the underside: 'Lady Luck, don't you piss in my porridge oats!'</content>
+  <content contentuid="h8ecde1f3g8245g4eb4g997ag6e2daf4201cb" version="2">Ring of Being Really Invisible</content>
+  <content contentuid="ha72bdb57g0fb8g4becgaa85gb255e912532f" version="2">This ring is missing its gem - or perhaps it's just &lt;i&gt;very&lt;/i&gt; invisible.</content>
+  <content contentuid="h538c0731g1a27g4d75gbf4ega8f288c92c20" version="2">Ring of Resistance to Ants</content>
+  <content contentuid="h53a936b7g8d16g4a91g9f0fg824be12a7afc" version="2">A glob of tree sap studded with dead ants occupies the space where this ring's stone once sat.</content>
+  <content contentuid="h835d0791gd921g4c31g8b05g86e210faf432" version="2">Ring of Infinite Wishes</content>
+  <content contentuid="h7512e0eeg5d83g49efg9f72g6a5761ad137f" version="2">The exterior of this ring is roughly carved with nonsensical runes.</content>
+  <content contentuid="h67056019ga388g425eg942fg8ff68f7bb053" version="2">Ring of the Lekinesus</content>
+  <content contentuid="h97d387deg05e2g4691g9ae2ga1e8690524b8" version="2">A small pebble swings from a length of fishing line tied to this copper ring.</content>
+  <content contentuid="h2d110ab4gd674g44e5g8db7ge9f774f2b031" version="2">'Magic' Ring</content>
+  <content contentuid="h3b074b36g13e4g4275g8a54g48fd91c9a115" version="2">The runes encircling this ring appear to have been scratched into the metal with a rock.</content>
+  <content contentuid="h46a4af73gf271g4692g8036g21e39f25158b" version="3">Coating</content>
+  <content contentuid="h4f6bdb7bgf2efg4088gb23eg0f6f33fc0dfc" version="3">Coat weapon</content>
+  <content contentuid="haf3f80eag87d7g4368g8475g381b7fdc7dec" version="3">Potion</content>
+  <content contentuid="h3551f949g1ec5g4a51ga809gbd6f2a79097a" version="2">Drink</content>
+  <content contentuid="h0abe9cb1g8a09g4101gb44cg88e0a728b7ee" version="4">Ingredient</content>
+  <content contentuid="h06aec8d4g93a6g4b5bg98a3gdee18c0916f3" version="3">Arrow</content>
+  <content contentuid="h98a2976bg91aeg4a5eg9b01g5481f0ed268a" version="4">Shoot</content>
+  <content contentuid="h40214733gd8c8g4be7gb6f3gbfb2e2c6117a" version="3">The product of a fletcher's fine work, meant to be fired from a bow.</content>
+  <content contentuid="hd06dc751g98afg43b0gbb22g8e3991ca2094" version="4">Dog Collar</content>
+  <content contentuid="h6876946fg99a1g4a62gb840g3960d89d5002" version="3">An old, leather collar for a large dog. The name 'Myrna' is engraved on the tag, surrounded by a plethora of indecipherable runes.</content>
+  <content contentuid="h72235427gcc16g49afg8ab3g2661c613bd43" version="3">Amulet of Silvanus</content>
+  <content contentuid="hc2c4d1bbge44eg454egaa6cgac6c0823c89d" version="3">This amulet, engraved with a small waterfall, imparts a feeling of calm serenity when worn.</content>
+  <content contentuid="h7188dfd9g8298g4f6dg84dbged0f48cf5086" version="4">Amulet of Bhaal</content>
+  <content contentuid="hecfe7235ga792g4e11g9c7fgded63a9a2ad7" version="4">A silver amulet depicting the symbol of Bhaal.</content>
+  <content contentuid="hf498c048ge54dg479aga82fg963cbb00f7a0" version="4">Bloody Amulet</content>
+  <content contentuid="h6232b999g530fg4724g8a91gb3e769326fdf" version="5">Tiny specks of blood cover this amulet. They have pooled into the engravings on the back, spelling out the name 'Wulbren' in a grisly brown hue.</content>
+  <content contentuid="hbe907d43g831bg4356gbfaag265b26b453f0" version="4">Brass Locket</content>
+  <content contentuid="hd0a6e3f8g1d34g42f7ga658g91112e6447dc" version="5">Slightly tarnished, and opened with a mere flick of the thumb.</content>
+  <content contentuid="h33522d07g0006g435eg8700g752f9bdb9f5a" version="4">Mayrina's Locket</content>
+  <content contentuid="hd4cccd15g08f6g4f44g8bd5g9d62d94338fb" version="4">An aged, blue-stained scrap of paper within this locket reads: 'To Mayrina - Will you go to the summer fair with me? From Connor. PS. These bluebells are from Ma Grundy's patch, please don't tell!'</content>
+  <content contentuid="hce736211g12e7g4ad2g9888g873d9b639226" version="3">Amulet of Windrider</content>
+  <content contentuid="h0bc4174cg6d3fg4229ga3bbg59857901684c" version="4">The Blast Pendant</content>
+  <content contentuid="h712dd623gf9d5g4f96g82efg9d56056d6170" version="3">Though they only worked together for a short time, it is hard to overstate the influence Lenore the cleric of Mystra had on Yrre the Sparkstruck, who often likened harnessing lightning to manipulating the Weave.</content>
+  <content contentuid="hef3175eeg87e8g4530gbb87gabbdee3d4a45" version="3">Lightning Aura Amulet</content>
+  <content contentuid="h36a418ccg070dg4f99g8170gf749abd3d0cb" version="3">Amulet of the Drunkard</content>
+  <content contentuid="hfaaa9ddcg6bc4g453egb74dg7d75038a66f4" version="3">Donning this necklace causes the room to sway and tip - or maybe it was already swaying? Whatever, time for another pint. </content>
+  <content contentuid="hb3a1ef86gc377g482agabb4g47de32e0c05d" version="4">Necklace of Elemental Augmentation</content>
+  <content contentuid="hc7015ec7g874bg4dcdg9e66gd6696f89ec2d" version="3">The tourmaline in this necklace is almost uncomfortably hot, warmed by a heat all its own.</content>
+  <content contentuid="h8aaf80d3gdfe9g4387ga3bfgef3ce0d1407a" version="4">Fireheart</content>
+  <content contentuid="h2235c76cgcf9fg4a80g950cgd94970883200" version="3">The ruby's red reflections look like eerie flames dancing across your skin.</content>
+  <content contentuid="h51a49048gc260g4ea6g9b34gfb7d3b3e725e" version="5">Frost Prince</content>
+  <content contentuid="h57747140ge6ceg4177gb055g822b559daea3" version="3">Each sapphire feels like a tiny shard of sharpened ice.</content>
+  <content contentuid="h3bdcd08eg60d2g4e86g9a3eg4844e721239a" version="5">Tressym Collar</content>
+  <content contentuid="h2f0e0a8ag41f0g4497g8b69gd8bfcd32507f" version="3">The gem in this collar's centre is placed as a common courtesy: it allows the tressym's summoner to be identified and complained to in the case of bereaved pet owners or pigeon-masters. This one glows with a Waterdhavian name: Gale Dekarios.</content>
+  <content contentuid="h93e9d9e0gc6bbg468dg9b08g7608db87a9a1" version="6">Strange Tendril Amulet</content>
+  <content contentuid="h466ffc34gd134g4786gbaebg8129217c1b6f" version="3">Eldritch sigils seem to coarse through the metalwork on this amulet.</content>
+  <content contentuid="h7ff98b83g02edg4820ga8a8g355b67cef761" version="4">Amulet of Branding</content>
+  <content contentuid="hd9a02f94gf96fg4d62g9dd7g7db979549906" version="3">Though thin and delicate-looking, the amulet's pendant sits heavy against your chest.</content>
+  <content contentuid="hdca82c8bgf098g4500gb3f7gb51a9bb15517" version="6">Fey Semblance Amulet</content>
+  <content contentuid="h5197cdfbg856fg4575g816dgc35a6dee8f8e" version="3">Originally the kidney stone of an archfey, this object has been, ahem, passed down through the centuries. </content>
+  <content contentuid="h6cc196acge915g4fbag8594gc2df8cc7a15a" version="4">Amulet of the Harpers</content>
+  <content contentuid="h8263520fgacf1g42bbg94cbg223bab638190" version="3">Nobility can be found in suffering the slings and arrows of outrageous fortune. So can dying. Best to be on guard. </content>
+  <content contentuid="haca716dfg53e7g4b6dgb268g0af13ce7a7cb" version="5">Broodmother's Revenge</content>
+  <content contentuid="h9b598991g9558g4ba5g84c7g6f4640ff1156" version="4">Each of this amulet's jewels shines like a viper's eyes.</content>
+  <content contentuid="h1de08607ga35ag4342gbdb1gc7b2131e1ca1" version="4">Amulet of Restoration</content>
+  <content contentuid="h5a200402gdb3fg48f2gaa38g2599fb475c77" version="3">The gemstone centrepiece of the amulet was long ago mottled and dyed by the tears of a martyr. </content>
+  <content contentuid="h870f16a7g13e3g432dga5eag768b4a4804aa" version="4">Synaptic Needle Amulet </content>
+  <content contentuid="h5ba15778g8fc5g4537g8baag390e859d6cef" version="3">Fingering this amulet sends a spike of pleasure sliding through the brain - pleasure that could be turned to pain in an enemy's addled mind. </content>
+  <content contentuid="he7b7050dg92deg406eg998ag02c1976ec3b7" version="4">Dauntless Amulet</content>
+  <content contentuid="h36aad6fcg8da7g4091gbcb4g57fff625f6e3" version="3">Flowing through your chest, threads of whiskey-like warmth - they spread and spread, and who could lay you low, you champion in hopeful hours?</content>
+  <content contentuid="h0fca6475g0de9g4148gb88cg4e89413ee344" version="4">Kruznabir's Asylum Amulet</content>
+  <content contentuid="h18ad39d5g089eg4061g9ae5ga59670dc3cdd" version="3">The bauble is emblazoned with fiendish words that, when translated, mean, 'May your throat be educated in new screams.'</content>
+  <content contentuid="hfd8f6d80g550bg4cdbg8473g457aac169198" version="4">Spell Savant Amulet</content>
+  <content contentuid="h49582c7bg00c6g4da7g8aa2ge5c4b744bd28" version="3">When on the wrong side of a few sherries, the powerful wizards Bigby and Tenser would sometimes see how many spells they could fit into amulets like this one before they burst.</content>
+  <content contentuid="h3df6da79gb305g4869ga21dgc16b3e342e78" version="3">Moondrop Pendant </content>
+  <content contentuid="hfccf0fdag66e8g4163g91eeg5f25c0cb581b" version="3">The back bears an inscription under a delicate crescent moon. 'You're a novice no more, Robin. Only right you should carry a little of our Lady's light with you.'</content>
+  <content contentuid="h02700282g7b27g4fe0gbfd3g51ae85aee850" version="3">Ilmater's Aid</content>
+  <content contentuid="he7fe2bf7g65dfg430cg86d6g615c8f904650" version="3">Named after the god of martyrs, this amulet seems to shine in the presence of the wearer's blood.</content>
+  <content contentuid="h50020200g9a25g4a42ga71ag903d7d9b47aa" version="5">Corvid Token</content>
+  <content contentuid="h9dac23c9gccedg4ac2gb5b9g9f123d94eb09" version="3">'Let your lips turn black as night/On this eve of frightful wights/Let your throat be filled with screams/Nearby looms the Raven Queen!' - A song of dark festivity</content>
+  <content contentuid="h2e960a15geebfg4c4dga6a1g741690720575" version="3">Amulet of Greater Health</content>
+  <content contentuid="hb2617fecga713g40d4gac24g28705701eaf3" version="3">Worn by Lumi, a cleric beholden to twilight, who sheltered her fellow adventurers as a bantam shelters her chicks. </content>
+  <content contentuid="hb1e27891gb797g42e1ga9a6g04db27aa9927" version="4">Lofty Sorcerer's Amulet</content>
+  <content contentuid="h892ee44bg9187g42e7gb675ge6a5266577b6" version="4">Chiselled into the back of the amulet with great care: 'sorcery &gt; wizardry'.</content>
+  <content contentuid="hb33061b9gb205g483agbd8egf1006970c7ae" version="4">Amulet of The Devout</content>
+  <content contentuid="h917c9c5cg9679g44c4gbec6g6bb8d4f6df34" version="3">Otto, a member of the powerful arcane organisation the Circle of Eight, had a penchant for amulets. So much so that they announced his arrival before he ever needed to.</content>
+  <content contentuid="ha79d98fage412g4f55g86b0gacd612ef67d3" version="4">Pearl of Power Amulet</content>
+  <content contentuid="h57e00e78g2d97g4e68g91fbg523b1dafc91b" version="3">There are no molluscs of power, alas. </content>
+  <content contentuid="hcb57d2b3g3dc2g4f1cg8f9bgc922b6d8e9c7" version="5">Periapt of Wound Closure</content>
+  <content contentuid="he388b3f2g9cd7g4f7ega88cg1b1e562012f8" version="3">Sometimes the best thing you can do for your friends is to stop bleeding and give them a chance to sort everything out. </content>
+  <content contentuid="he5488b3fg6f74g4235gaec6g73b3a8b92b61" version="4">Scarab of Protection</content>
+  <content contentuid="h41004697gc99cg4362g8479g3b1ec811895e" version="3">This beetle-shaped medallion thrums with a power redolent of older civilisations in Toril - how old is this relic, all grouted with dust as it is? </content>
+  <content contentuid="h8bbaa064ge271g473dgb291gbc9a7eb35596" version="4">Spellcrux Amulet </content>
+  <content contentuid="hce713132g5649g45f4gab2ag5963618c9c29" version="4">Some scholars have speculated that spells have a mind of their own, suggesting that the spells get bored between being cast and restored.</content>
+  <content contentuid="h6c91d5b0g4549g4c0fg8700ga9ff79b7bda6" version="4">Hammergrim Mist Amulet</content>
+  <content contentuid="hb8803373g2cfbg4224g8b17gc81cda295532" version="3">One of the relics of Deep Duerra's rebellious children. Drugging the Keykeeper of Duerra's vaults, the children crept in under cover of night and plundered their mother's treasure - searching desperately for anything that would aid in their flight. </content>
+  <content contentuid="h166ab07bga816g4b6egaa02gb912c5aab778" version="4">The Spectator Eyes</content>
+  <content contentuid="h08a120d1g547eg4e27gae75g9f501bc672b4" version="3">Spectators are hideous aberrations that float above the ground, fiercely staring around and shooting beams at anything they don't appreciate. </content>
+  <content contentuid="h1e50e6cege15cg46a2g837dg7d752ea79a7b" version="5">Absolute Confidence Amulet</content>
+  <content contentuid="hbfd091e4gbc9eg43a0ga223g8cb548b97629" version="4">Spineshudder Amulet</content>
+  <content contentuid="hbed03ed1g7fceg407eg86e9g939de566df2c" version="3">Quivers creep up your enemy's back - the slow, long-fingered hand of your magic. </content>
+  <content contentuid="h5e0888bcg8b31g4d6cgbbcage148ef1f3fe9" version="4">Surgeon's Subjugation Amulet</content>
+  <content contentuid="hb6e3db04g37ecg40e2gb541g44a5d29e413e" version="3">A surgeon is only as reliable as her tools. And, indeed, as depraved. </content>
+  <content contentuid="h17dca837gfab0g47acga0fegd96b3e0e0d1f" version="4">Treacleflow Amulet</content>
+  <content contentuid="he65c2a33gb75eg44ddg84b8g09cfa038fc31" version="3">The air surrounding this lavishly decorated amulet is thick - like pushing your fingers through sap or syrup.</content>
+  <content contentuid="hf7438cc9g3d80g4288gaa63g05f373fb4356" version="3">Beastmaster's Chain</content>
+  <content contentuid="hc2b8a6c9g74a7g4ff0gb606gc2f17e27b055" version="3">The green jewel set into this necklace's pendant is carved to resemble a cat's slivered pupil.</content>
+  <content contentuid="h5339161cg6412g4b8fga35cgabf1c16f0c56" version="3">Amulet of Elemental Torment</content>
+  <content contentuid="hcb89d3d3g9eb8g490eg894bg990479e2b46c" version="3">Each jewel gleams with the energy of the natural elements.</content>
+  <content contentuid="h9ace6f8agd049g49b0gbe2fgfb1d635401a8" version="3">The Amulet of Lost Voices</content>
+  <content contentuid="h37eb1703gb3efg4613g9377gb86df051e165" version="4">The dead hold no secrets from Jergal's Scriveners of Doom.</content>
+  <content contentuid="h30164c75g2676g4910gbf3age65ee29ab533" version="3">Amulet of Misty Step</content>
+  <content contentuid="h680a404cg98d4g41e6gaf52g893298afcfbe" version="4">This necklace allows the wearer to cast Misty Step.&lt;br&gt;&lt;br&gt;&lt;i&gt;Made of blue gems unique to a privately-owned mine in Menzoberranzan, this necklace was likely a token of esteem - or perhaps a desperate attempt to win its recipient's mercy.&lt;/i&gt;</content>
+  <content contentuid="h8a8b51bcg3a10g4c42gb13ag58233ed1b220" version="4">Absolute's Talisman</content>
+  <content contentuid="hc574340fg1624g4b10gae43g4338228b2a4b" version="5">Stained by blood, and gifted to only the most faithful of True Souls to help preserve their lives.</content>
+  <content contentuid="hcc13650cge610g4c82gac4agf6403872c0cc" version="3">Amulet of Selûne's Chosen</content>
+  <content contentuid="h003e634egffdfg4a2dg92a6g3620c6bc604d" version="4">The gems and pearls of this necklace have a brilliant shine to them, as if reflecting unseen moonlight.</content>
+  <content contentuid="h7f684d98g3517g4412gb905gbb99b1b48030" version="4">Amulet of the Unworthy</content>
+  <content contentuid="h8ae62044g8b53g4510g88bbgb10640a1794d" version="5">Once part of the Girdle of Blades, this buckle was torn off and fashioned into an amulet that can be worn by creatures of all sizes.</content>
+  <content contentuid="hfdb32d43gb697g4609gbc89g3c6c8d69b839" version="4">Sentient Amulet</content>
+  <content contentuid="hd600d4fcgf4acg471ag97a5g8f31acaa0dde" version="4">Sun-graced warmth radiates from both the pendant and its chain. Somehow, even a brief glance of it brings a smile to your face.</content>
+  <content contentuid="h68816f49gc6d7g4b4ag82ddgafa29dca0aef" version="3">Champion's Chain</content>
+  <content contentuid="h951393a1g1b37g47e5g828eg2e7cc5e9fd75" version="3">A plump mass torn from Sovereign Glut's own flesh. A marker of the colony's esteem - or perhaps its property.</content>
+  <content contentuid="hc53cd297g547dg4ae4g8b79g60a0332e722e" version="3">Envoy's Amulet</content>
+  <content contentuid="h21bf0cb9g64c5g480bgb23fgf4e5dfa1a28a" version="3">A fleshy amulet shaped by Sovereign Spaw's own hand. Wherever the bearer goes, so does the myconid circle.</content>
+  <content contentuid="h756ab276g403bg486ega550ge39d98c4b1f1" version="4">Uncovered Mysteries</content>
+  <content contentuid="hf2edd882g4660g43f2gab98g1e2ade934e40" version="5">Beneath the layers of dust covering this necklace, its inlaid gems still give off a blue sparkle - the colour of Mystra's clergy.</content>
+  <content contentuid="h6f6cb255gea8dg47b8gab61g9702961fd32c" version="3">Silver Pendant</content>
+  <content contentuid="h160029cag5c8ag4b04g814dgeeff37cd5b95" version="4">Grime covers this necklace, but you can vaguely discern delicate engravings of a moon and harp.</content>
+  <content contentuid="h60bc04eagd451g44e4g94d5ge608f1355d96" version="3">Tarnished Charm</content>
+  <content contentuid="h1806e1e0g0d3eg405bg956fga51a1bcc65cc" version="3">A menacing cackle emanates from this twisted charm. It whispers to bite, to maim, to kill...</content>
+  <content contentuid="h3a24e81fge9ffg4862g8d8cg9ec84e3bd025" version="4">The Ever-Seeing Eye</content>
+  <content contentuid="h18b28d55g792cg4ea1g8850g5c4918cbee7d" version="3">A pale green eye, pierced by the twisting branches of a dead tree - the result of a foolhardy woman begging Auntie for a favour.</content>
+  <content contentuid="h0f8acd8dg2e16g4ed8g82cdgccb9efc4c65c" version="3">Staggering Amulet</content>
+  <content contentuid="he9f587f1gc090g4175g9acdge1e18c209ee0" version="4">Wakeful Amulet</content>
+  <content contentuid="h06974fddg3c22g4430g8092gf0aee166dbb3" version="3">While this doesn't prevent wilful rest, it does protect you from being put to sleep from such sources as hypnotism, copious alcohol usage, or, indeed, magic. </content>
+  <content contentuid="he0beb540ga251g4900g876egb217338b7583" version="3">Destroyed Kill Collar</content>
+  <content contentuid="hda5b41afg6bddg4ba2g98d9g31d00c1a38e7" version="3">Komira's Locket</content>
+  <content contentuid="h241e5918g663eg4858g8a38g36a7eda5737c" version="3">Grants its wearer the ability to cast &lt;LSTag Type="Spell" Tooltip="Target_DancingLights"&gt;Dancing Lights&lt;/LSTag&gt;.</content>
+  <content contentuid="h86e1b56bg02acg4596g87e1g5c093ca8fee0" version="4">Worked carefully into the locket's metal back are the words, 'Never dark again.'</content>
+  <content contentuid="hd4db937cg2a41g4163gae96g1f4de236005d" version="3">Khalid's Gift</content>
+  <content contentuid="h4e289b2bg7a72g42c9ga76cg32f79fdbc004" version="4">A gift from Khalid for Jaheira.</content>
+  <content contentuid="h8cdc46bbgc433g4092g972bg885970a3a663" version="4">Shar's Temptation</content>
+  <content contentuid="h5c7d707fgfa39g4aacgbd19gb4cd723902f8" version="4">Allows you to cast Charm Person once per short rest</content>
+  <content contentuid="hf43a1744gad29g4dffgb60fg7487e1955022" version="4">The inlaid jewels are so rich in colour, so deep in hue, you could lose yourself in them.</content>
+  <content contentuid="hf24ae4ccgfe3ag4b07gbf17g782c07599138" version="8">Psychic Spark</content>
+  <content contentuid="hcb07ad2ag4d6bg46feg894agd6c19e8db224" version="7">Every gem hanging from this necklace is warm to the touch, as if waiting to ignite.</content>
+  <content contentuid="h78a00724gc8c6g44e5g8be7g176d8c363e0a" version="2">Hag's Ring</content>
+  <content contentuid="h14744a94g2124g43ddg8ea8g1c9689e83dd7" version="4">Grimy, discoloured, and revoltingly ugly. Auntie Ethel must have made it herself. Surprisingly, you feel no disgust. Instead it fills you with a longing, as if it's calling out for its like.</content>
+  <content contentuid="he6a995adg8e09g4d3fgb7cdgc9005256edb6" version="5">Till Death Do Us Part </content>
+  <content contentuid="heb25c3f6g3bd1g4a2aga05eg685f80291d9f" version="3">Love is the sweetest bird that might migrate to the charming country of your heart.</content>
+  <content contentuid="hfa6559f7ge0deg4061g8d77g7f904e413d5d" version="5">After Death Do Us Part </content>
+  <content contentuid="hadc91024ga053g4781g9e77gea4af0109335" version="2">Love is the last cruel leaf to fall in an autumn wide with sorrow. </content>
+  <content contentuid="hd825e1ccge521g4c7ag8839ge9769dc6c5c2" version="3">Caustic Band</content>
+  <content contentuid="h474fbd3aga566g4a48g972ag57fe41c32de1" version="2">Adjusting this unassuming ring on your finger, you hear a faint sizzle, as of pressure being released.</content>
+  <content contentuid="h9c39792dg880cg437bg9250g879f51535103" version="3">Band of the Mystic Scoundrel</content>
+  <content contentuid="h069c7b98gb97ag4f83g9b11ga0d6f84d8f9d" version="2">What better way to disguise one's transgressions than a quickly positioned phantasm after the deed is done?</content>
+  <content contentuid="h826192c0g098fg4224gb0d3g5fa7b8cecd3f" version="3">A Sparking Promise</content>
+  <content contentuid="hee388d0cga972g4213g983eg61e3042f1e20" version="2">A year into their union, Lenore, cleric of Mystra, gifted the gnome inventor Yrre an invention of her own devising - a ring that held a spell of sparks. Eventually, the touch of Lenore's hand faded to a glinting memory, but the ring's tingling grip remained resolute.</content>
+  <content contentuid="h457b107agf8e2g4f31g8cb4gbd6bc6328ae2" version="3">The Sparkswall</content>
+  <content contentuid="h964a1d6bgcecdg42fdg8023gefb1c0c7b1c6" version="4">When the inventor Yrre met the cleric Lenore, sparks flew. Apart, they were in a rut, but together, they inspired each other to push the boundaries of innovation and invention. This ring is just one of their many scientific triumphs.</content>
+  <content contentuid="h0f0ce07dg2085g497egb1d6g843c4fb0763e" version="4">Killer's Sweetheart</content>
+  <content contentuid="h35f0d669gb33cg41fcgb53cg67595e4c1b28" version="2">Though the ring is highly polished, darkened slivers of blood still cling to small scrapes and corners.</content>
+  <content contentuid="h3fa5dfd7g0886g4f3cgaf22g0eb720523d6a" version="5">Ring of Elemental Infusion</content>
+  <content contentuid="h12015583g3420g4e69gb591g4255fba23c2d" version="2">The mysterious gem set in this ring seems to change hues whenever you aren't looking.</content>
+  <content contentuid="h0427727ag2860g4f88gb40bg3d5009a5d88e" version="2">Ring of Fire</content>
+  <content contentuid="h447ecee5g5b73g46b7gb308g535ceba0f4d6" version="2">A burning heat radiates from this ring, warming the wearer from head to toe.</content>
+  <content contentuid="hec80c9afgf2a7g4922gb3b6g71ff82a82b81" version="3">Ring of Self Immolation</content>
+  <content contentuid="h3028421ag879bg419dg93f3g5a78082f8892" version="4">Every one of the three gems in this ring is searing hot - enough to burn yourself with the slightest brush of your fingers.</content>
+  <content contentuid="hbf4b7c6cg4283g429cgb0d3g2880a7382ef2" version="3">Snowburst Ring</content>
+  <content contentuid="h41ce4583g4731g4958gb232g78307bc5e99f" version="2">A series of names have been scratched out, one after the other, on the inside of the ring. The last word, untouched, is not a name. It simply reads: Mine. </content>
+  <content contentuid="hd0ee2559gdcf2g49b8g874bgdfeaec1aca94" version="3">Ring Of Blink</content>
+  <content contentuid="h3dd5d842g6a23g467ag8d49g8860dd120c81" version="2">Fashioned by the wizard Bigby in honour of his faithful hound Bigboy, who could use teleportation to fetch, snare errant cats, and generally harass postmen. </content>
+  <content contentuid="h3adbde80g4a33g4f5bg9797gd0f197eb6ef6" version="2">Burnished Ring</content>
+  <content contentuid="h1326f143g13a0g491bgac57gc70803f3fc9e" version="2">A paralysing eyestalk harvested from a beholder was boiled in a broth, and poured down the throat of a dwarven ringsmith. Not one fortnight thence, he crafted this ring.</content>
+  <content contentuid="h2977ce71g9495g4c3bg8513gc7dc2deef1fc" version="2">Keepsake Ring</content>
+  <content contentuid="hbc6cab78g735cg413ag9099g764bbfaf5522" version="2">Created by a conglomerate of druids one moonlit night when all the stirring violins of insect, elms, and whispering winds consorted, and when wild beasts in need of taming prowled unseen.</content>
+  <content contentuid="h21bdb0bfgb55fg454egac7fgb0b013670293" version="3">Ring of Arcane Synergy</content>
+  <content contentuid="hc79706b4g6bd7g435fgabbagd47e6adfd020" version="3">The sharp silver corners of this ring almost cut into the stone set in its centre - a gem of which you've never seen the like before.</content>
+  <content contentuid="hbe1e3034g558cg4fefgb779g49eb8886d10b" version="3">Strange Conduit Ring</content>
+  <content contentuid="h43fc4585g4024g4e81ga9ccg51b0611015c5" version="3">In his speculative writing on arcane displacement, the wizard Tenser notes the possibility for keenly focused minds to maintain spells, and even unlock hidden potential while doing so.</content>
+  <content contentuid="h71f28b72ge121g4d98g8cf0g399f4c23cb6b" version="3">Ring of Geniality </content>
+  <content contentuid="h745e2988g71d7g4463gacc2g5e6ca8d5466c" version="2">Glibness is not only in the tongue, but in the body. Gesture is powerful. Think of how many words of comfort can be stored and saved, when a hug will do just as sweetly. </content>
+  <content contentuid="hf86e61cdg0b3ag466cg98bfg77c82929f3cb" version="3">Ring of Flinging</content>
+  <content contentuid="h78c2f204gc7f5g437ag902cg212df331cf9e" version="2">Organisations like the Harpers do not relegate their activities to head-to-head combat - many a moonlit chase with an evildoer has been resolved with a loose roof tile and a decent throwing arm. </content>
+  <content contentuid="h1b61d857g9640g46e7ga7d3gc20bd7ba4701" version="4">Ring of Twilight</content>
+  <content contentuid="ha18d0424g7941g4b2agaf3dgeda0de119511" version="3">Dark smoke swirls in the ring's onyx, protecting something within.</content>
+  <content contentuid="hf1843bfbgcd58g46bcg89aagfa051568ed55" version="3">Ring of Beguiling </content>
+  <content contentuid="he48e44feg9665g41dcg9dd2g01b5636282c7" version="2">Whispers in the Deep Speech of the Underdark insinuate themselves into the mind of whoever so much as brushes against the burnished metal of this ring. </content>
+  <content contentuid="hb77e6adagc35dg4819gbb84g3d83a39c6b22" version="2">Spurred Band</content>
+  <content contentuid="h48ad3c75gc9bcg4f62ga9bag5748261570b9" version="2">Tiny barbs prick the wearer when they're injured, as if urging flight from danger.</content>
+  <content contentuid="h652aec19ga423g4f29gba78ge33e9f63d3dd" version="5">Ring of Exalted Marrow</content>
+  <content contentuid="h4cbf8619g9748g4826gbbd4g734efebc728a" version="2">Gazing through this ring, you find that there is no other side, only a small sucking blackness that defies explanation.</content>
+  <content contentuid="ha6137779gb6a6g4b9eg81c8gb365cc632081" version="3">Ring of Feywild Sparks</content>
+  <content contentuid="hf2caba62gd8aeg4155gb2bag7dc77cc65451" version="2">This otherwise unassuming ring ties a spellcaster indelibly to the sporadic arcana of the Faerie realm.</content>
+  <content contentuid="hde313be0g55d1g413dg93b9g2f0b17780151" version="4">Crypt Lord Ring</content>
+  <content contentuid="hef2954d8ge379g4e94gac18g550570fcb47d" version="2">Slipping one's finger through this ring fills the senses with the waft of tombs, the urine-yellow smell of old bandages, images of dead spiders curled into husks, and the sensation of hot, slobbering breath at the nape of one's neck. </content>
+  <content contentuid="h1e39de6ege77fg42a5gb39bgc8a0e71511b8" version="3">Orphic Ring</content>
+  <content contentuid="h1c5cb994g98cfg4ac3gaf54ge9d8d6bed49e" version="3">When light catches this ring at the right angle, it pulses with a dizzying, intoxicating glow befitting the jewellery of the Prince of the Comet. </content>
+  <content contentuid="he7ca13dfgf68cg4e8dg998fg03f2830f14aa" version="2">Ring of Shadows</content>
+  <content contentuid="h3397a0ddg95a4g4a3ag9536gfd8dec7f1412" version="2">For some, darkness is wielded like a black opal stud embedded in a signet ring - fashioned to a sharp and unforgiving point.</content>
+  <content contentuid="hea0bc00fg1970g42b8gaf6agf2a008cf32eb" version="3">Ring of Evasion</content>
+  <content contentuid="h400f9d3ege697g4a55g82efg09a3b7b3ba2b" version="2">Decorated with a hummingbird wrought of jade and sapphire, this ring evokes the sheer wonderful quickness of that animal. </content>
+  <content contentuid="h5a1930d9g5a63g4d43g9c85g088fba672ba9" version="3">Ring of Free Action</content>
+  <content contentuid="hadd3d1bfgfffbg42b7g9480g9532b4b477b3" version="2">The heart of the gem seems to flow like liquid - yet it contains neither quicksilver nor mercury.</content>
+  <content contentuid="h7f0aa1b6g0c8fg4417g8397g9b106ce76ef6" version="3">Ring of Jumping</content>
+  <content contentuid="h082b6390ge35eg4bcbg9aa7g6c440f517e47" version="2">The ring is scuffed and twisted out of shape, as if worn by big stony fingers. The owner of those fingers has carved 'Karthol' into the warped metal in a fit of affection or possessiveness.</content>
+  <content contentuid="h2314882cg9eeeg4c9bg97cag006c68709780" version="3">Ring of Regeneration</content>
+  <content contentuid="he1fccc54g31e4g4c78g9ef6g48827ef55748" version="2">This ring is, in effect, a tiny field medic that won't charge you 70 gold pieces for a fifteen-minute consultation.</content>
+  <content contentuid="h38b12c11gac58g49cbga90cg72fef9f5d966" version="3">Ring of Protection</content>
+  <content contentuid="h7c174fd4g9daeg4b3dg8f88g593f43338d47" version="2">Elegant motifs of warding - shields, targes, bucklers, and buffers - are faintly impressed into the metal round of the ring. </content>
+  <content contentuid="hb2dc3d16g929ag4bebg99ffg706a88e34ca3" version="3">Poisoner's Ring</content>
+  <content contentuid="h99b6f704g6664g486fg86d3g8574264e28d9" version="2">Strange, green fumes seep from the ring's emerald.</content>
+  <content contentuid="h2d27f4feg9586g4ca0gb199g3c035a189ccd" version="3">Ring of Mental Inhibition</content>
+  <content contentuid="h3a35fd31g7d56g4decgbd80g0b89cb0d6bab" version="2">The patterns in the ring's swirling metal make your head spin whenever you look at them for too long.</content>
+  <content contentuid="hfa1107a0g86aag4455gba09gc2e8e75205b0" version="3">Callous Glow Ring</content>
+  <content contentuid="hdbde7941g993cg474cgad7cg88b3da00eb36" version="2">A grudging gleam emits from this ring - more an indictment of light than an endorsement.</content>
+  <content contentuid="h820d0f2agbd98g4687g8ac1g30f0663aaa26" version="3">Coruscation Ring</content>
+  <content contentuid="hb73e20f9g39a3g4bfdg923cg7eba81fc6d9e" version="2">Provocative light blooms from the engraved contours of this ring. </content>
+  <content contentuid="h5bf4c5bagc17bg434fg81edgf5991887f297" version="3">Risky Ring </content>
+  <content contentuid="h2787bafcgaa1dg4b77g89e1ge1e4dbf5723a" version="2">Life is just a series of risks taken while blindfolded. </content>
+  <content contentuid="h13b9abeag413dg4e97gb535g94dc4bb33a0b" version="3">Eversight Ring </content>
+  <content contentuid="h6d0fc587g2536g4b77gb16aga9716df1de7f" version="4">One of the relics of Deep Duerra's rebellious children. Paranoid by nature, Duerra had erected a vast array of biting, blasting, blinding traps and safeguards to keep her enemies from gaining her sanctum.&lt;br&gt;&lt;br&gt;Of course, this also meant her children were sealed in with her by those same deadly measures.</content>
+  <content contentuid="h1a00afc2g6085g4b4fgbc36gf1888aa76b78" version="3">Shadow Blade Ring </content>
+  <content contentuid="h5c8885c5g3d37g4387g9255g65fe95ce416b" version="4">One of the relics of Deep Duerra's rebellious children. Long ago in a foreboding realm called Hammergrim, Deep Duerra, daughter of the dour god Laduguer, sired a great many heirs to her twisted corundum throne.</content>
+  <content contentuid="h4e7f2548g23f1g4f81g8412g2bb4a645e72a" version="3">Shapeshifter's Boon Ring</content>
+  <content contentuid="hd59e5d2egb8fag4487gb869gfa1e139cc697" version="2">'I'm a talented shapeshifter, too. I can shapeshift a thin body into a fat body. All I need is a steady supply of mince pies and mulled wine.' - Overheard in a tavern in Daggerford</content>
+  <content contentuid="he7df480bgc035g40e9gae61gfedb7c9dcb1b" version="2">Bracing Band</content>
+  <content contentuid="hf6c484dfg45d4g4e75gbb80gd82bff4b0760" version="2">A common ring, simple and unadorned. Though there is a certain heft to it...</content>
+  <content contentuid="hbf6fd0d7gd36dg4d3bgbdc4g9e5c43a1ca71" version="3">Seemingly Gleaming Ring</content>
+  <content contentuid="he2e42ad9g78cfg484dg859cgb6155d510d14" version="3">Ring of Spiteful Thunder</content>
+  <content contentuid="h27f176f7gd7f6g4aeag8c1fgfe8074355169" version="2">When you slip this ring on your hand and flex your fingers, a boom of discontented thunder grumbles in the air around you. </content>
+  <content contentuid="h4d7fa155gcebfg49e7ga084g2ed3482a9581" version="2">Ring of Truthfulness</content>
+  <content contentuid="h9d5695fdgff0ag48b9gaa77gd8919a479fc5" version="2">'Fib now, and forever hold your teeth.' - Folk saying</content>
+  <content contentuid="hfed2135age818g4cbdg96edgc6b50286ed39" version="2">Ring of Crabsight</content>
+  <content contentuid="hf6eed05dgcc5dg47c4g8f60gaa0929e2ad67" version="2">Equip this ring to increase your &lt;LSTag Tooltip="Perception"&gt;Perception Skill&lt;/LSTag&gt; by [1]. </content>
+  <content contentuid="hdde784ecgff6eg43ffgbc97g54c89574b847" version="2">Mud cakes the tiny letters of an inscription - 'A Cursed Sight Doth Dwell Beneath'.</content>
+  <content contentuid="hd3603c06g794ag4b81g8e35gd28142abeff3" version="2">Crusher's Ring</content>
+  <content contentuid="h877e5095g5dffg436dgbd16gc4e21bb6924c" version="2">Though caked with mud and grime, the ring smells faintly of lavender. Remarkable, considering where it's been.</content>
+  <content contentuid="h53ea62b4g8b26g467eg8e4eg7912c30d327e" version="2">Ringless Gemstone</content>
+  <content contentuid="hf3ad21d9g8d74g4438g972fgaf81e1f33ff0" version="2">This gemstone used to be in a ring.</content>
+  <content contentuid="h0d84abccg4444g4148g86c6g8839dd24d169" version="3">Explorer's Ring</content>
+  <content contentuid="h7e4db11bgcfbfg41d1g94cdg960f34f69357" version="2">A radiant and remarkably preserved ring, forged from arandur metal.</content>
+  <content contentuid="h25006691g63e2g4bf0gacd9g07f19c9726bc" version="3">Absolute's Smite</content>
+  <content contentuid="h62588623g7965g4211gbf4fg4bd0bca13081" version="4">This ring coaxes anyone branded by the Absolute. Their fingers veritably itch to slip it on.</content>
+  <content contentuid="ha0f01effgf2afg432eg9794g9ddf3d6410fd" version="4">Ring of Poison Resistance</content>
+  <content contentuid="h9cb92bf8g96e5g4ea1g9588g6fbf5a3c688c" version="5">The ring's emerald glows a deep, deadly green.</content>
+  <content contentuid="hf1f8d6e5gfebag494cg989dgd6c5c616ce0a" version="4">Ring of Absolute Force</content>
+  <content contentuid="h463df3bfg181dg4d0agb9d1g8ae4aad865ef" version="4">Darkness seems to blossom from this ring, heightened by the menacing glare of the Absolute's symbol, though for the Branded this symbol holds the promise of power.</content>
+  <content contentuid="hc5f1255bg2a0dg427fgbe54g609b4aff29db" version="2">Ring of Mind-Shielding</content>
+  <content contentuid="h76ed9b19gfa7bg4625g8239g9992ac43703c" version="2">This ring is forged from a smooth, alien metal, capped with eyes of emerald that watch the world unblinking.</content>
+  <content contentuid="h7f737ad4g2cabg4b74g8296g9fa451c76b04" version="3">Mage's Friend</content>
+  <content contentuid="hcdc2f60egfc38g47fdg9667g05d1e01b7c27" version="3">Though carefully stowed away in a bedside chest, this ring is covered in dust and cobwebs.</content>
+  <content contentuid="ha9090caegd1cdg47c5g8d6fgbb9299a8e44a" version="3">Guiding Light</content>
+  <content contentuid="h291758f8ge62bg4e1aga32dg6211c775ddf8" version="4">Used by the previous owner to access both the Underdark's darkest corners and her own basement, this ring seems to reflect light where there should be none.</content>
+  <content contentuid="h9b70dac0g6ad2g4912g9100gf6eada63b257" version="3">Orin's Temple Ring</content>
+  <content contentuid="h0b947135ga68ag45e2ga5c0g5f93931e9afa" version="3">Formless, unsettling dread fills any normal folk that don this ring - the transpositional magic thrumming within wishes to be used by only one specific scion of murder. </content>
+  <content contentuid="hf62b1e0eg95abg447cg8110g7e1763fcf771" version="2">Guild Ring</content>
+  <content contentuid="h67d9f7adg92bdg464cgb548g061980157c91" version="2">Szarr Family Ring</content>
+  <content contentuid="he303e9f9g05afg4afag8c91ge49d885a0339" version="3">This ring carries the symbol of the Szarr family and has an inscription in some crusty old language.</content>
+  <content contentuid="h64c314bbg24eeg46aegad4cg9993b1ac8f89" version="2">The Whispering Promise</content>
+  <content contentuid="h92e93e60g90feg4c94g9fb6gb7dcea3cc755" version="2">A soft, soothing voice floats from this ring, reciting a prayer over and over.</content>
+  <content contentuid="h8ddaaad7gf8d6g437ega22bge538b15d7ef4" version="2">Smuggler's Ring</content>
+  <content contentuid="h0a74235cg8ecbg4c7dg87dcg1bba88fc3b1a" version="2">A subtle accessory prized by purveyors of the covert arts.</content>
+  <content contentuid="h73562698gacf5g4346g853cg8bb0c8348fb9" version="3">Shadow-Cloaked Ring</content>
+  <content contentuid="h66494098g04a9g499ag9b11g4ac50167b9bb" version="2">Even in the brightest light, this ring never gleams, as if perpetually wrapped in shadow, hungry for the dark.</content>
+  <content contentuid="hc1e7d4d4g04b1g4667ga8afg753914733cdf" version="3">Sandthief's Ring</content>
+  <content contentuid="hef1a3bc9gbd71g413cg9ddeg26308cd7cb71" version="3">True Love's Embrace</content>
+  <content contentuid="h6eaedbebg1200g49a0ga0adg5366dd5b34ad" version="3">The scholar of love, Joel Firris Baldidims, writes that the next time he reads about a woman compared to a flower (or any feature of geography for that matter) he's going to start knocking on poets' doors with a sledgehammer.</content>
+  <content contentuid="hf909376fgdf83g47adga77fg25ca9a6563f8" version="3">True Love's Caress</content>
+  <content contentuid="h2685cbccg39e7g446bg9d30g0f6fa217bd30" version="3">The most pragmatic and courageous lover ever known was, of course, Sorcha MacTire, for whom the popular hairstyle is named, and for whom many an extremely soppy poem has been written (most of them comparing her to geography).</content>
+  <content contentuid="h073f46eag5675g496bga624g09a1f2aaf257" version="6">Sunwalker's Gift</content>
+  <content contentuid="h7ded0a66g069bg4d3bg9a29g3e18380d8057" version="3">The ring's arcane jewel parts all but the darkest of shadows.</content>
+  <content contentuid="h8c057310geacdg486cga109gfcde6d8e3a61" version="4">Ring of Salving</content>
+  <content contentuid="hc24e561cg9942g448ag8ee1g1d04bc86ab53" version="4">A hymn to Eilistraee is inscribed along the inside of this ring, which is surprisingly heavy when worn.</content>
+  <content contentuid="h4971dca5g93bbg437eg96d1gb385b01eee5b" version="2">Djinni Ring</content>
+  <content contentuid="h52a72e49g6bbdg4dd0g9a1dg2944c27499a6" version="5">The ring from the djinni who worked in the circus. Its magic certainly explains how the djinni was able to cheat at the wheel.</content>
+  <content contentuid="hbcd71e68g63e5g4f22g99ccg98e8b3e46015" version="2">Gemless Ring</content>
+  <content contentuid="h4ad1b908g56d0g4571gb126gca9424714297" version="2">A ring that has been robbed of its gemstone.</content>
+  <content contentuid="hc0d432e4g1e7cg460egaa8egd17444d649be" version="2">Magic Ring</content>
+  <content contentuid="h95b51525g36c7g4a56gb4fdgd43fc03bce1d" version="2">Considered sacred by some gnomes and halflings, the gem set in this ring sparkles brilliantly. </content>
+  <content contentuid="h2f198d16g3b45g44d2gb8d1gd8bd150ca02c" version="2">Ring of Colour Spray</content>
+  <content contentuid="h3b6f0ffcg8de2g4b85gb50fg756720458bc1" version="2">When the light hits it just so, the centre jewel shimmers with every colour of the rainbow.</content>
+  <content contentuid="ha77fded4g3ef4g4a52g8fe3g718861d1ab1d" version="3">Family Ring</content>
+  <content contentuid="h2c627ba9g7de5g4d32g82f8g18a574ba4136" version="2">The ring's simplicity is a deceit. Its gold core is woven with iron-hard feathers from the wings of great black corvid birds, envoys of the Raven Queen.</content>
+  <content contentuid="h7ed2cfcfg5e66g47a3ga5cdg563e1b1585b0" version="3">Fetish of Callarduran Smoothhands</content>
+  <content contentuid="h39f8bfafg6a0ag4c64g85d7gbdabdbd19435" version="3">The smooth, six-pointed star on this ring is beset with small Underdark gemstones, as befits a talisman of the god of mining and patron of deep gnomes.</content>
+  <content contentuid="hce2d1664g0b32g4203ga8a9g3fe1100cef52" version="2">Pyschic Bolstering Ring</content>
+  <content contentuid="h263c98c0gc3e3g447bg9f89g15ccce48de05" version="2">Wooden Crate</content>
+  <content contentuid="h160c0904gc7b2g4ffdga971g16fa673a9284" version="3">Shifting Corpus Ring </content>
+  <content contentuid="hdc35c926g0fbcg4707ga0d4gb500b2ecaa0f" version="2">A shiny, deceptively simple band, designed to look like those worn by battlefield scouts and city pickpockets alike.</content>
 </contentList>
