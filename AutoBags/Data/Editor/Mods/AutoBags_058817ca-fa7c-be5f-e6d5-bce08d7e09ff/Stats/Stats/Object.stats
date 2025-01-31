@@ -3,21 +3,101 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="c086a4f0-adc7-4464-976c-e917f627e0a0" />
-        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_CRATE_WOOD" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96c5d474-0cfa-4d6f-9324-5601249a5c2a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_AlchCoatingChest" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="07d68d20-c271-4db0-a50e-66cbd944e7ed" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f4cbf15d-1f69-4a6b-aaca-0d2d5fd958c0" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="a7d22588-0b12-4cf3-ba15-0092473f86b4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="407f51b6-78ff-44e0-ad59-d76826529c08" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_ArmorChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="294fd6ff-5421-4c3a-815d-9f9f434a5001" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2c9e60bc-49f8-4dae-bf86-ee0cfd6be476" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_GrenadeChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8a104a98-c907-411e-a49e-c380017dc85b" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3f32952-64b6-44ff-87bf-a82b45640d95" />
         <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_JewelryBox" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8a33d1ab-5f95-4767-9b9b-a3cb89131119" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d1df7d02-00ed-45b7-a2c7-208d051b7c17" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="403e463f-3092-488a-be52-a8959baffb6a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_PotionBelt" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="09903ff6-8569-4256-a980-aa786da7c5fa" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd13a1d9-d872-4031-9180-4ecb81548daa" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_Quiver" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f2d5f8e7-a64a-4d14-ae09-d6ad8abe8162" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3613ed98-70c2-434a-bb1c-58ebbd0240a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_ScrollCase" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5460eaca-0037-42b7-9331-897c51fc135c" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="53d3976c-8e45-4406-84e0-816e439dd860" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_TravelBookshelf" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3aa35517-9b81-40a0-9cd5-f5dad051471a" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1754d589-a9e0-401d-bb76-f095fe68770a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JTL_AB_WeaponsCrate" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="dffae3b5-6296-4422-b168-e7adcf5451f6" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
   </stat_objects>
