@@ -35,7 +35,7 @@ Details on the items tagged are in [my other repository](https://github.com/jame
 ==================================================================
 ## Installation
 
-<ins>**To Install**</ins>: Import with [BG3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) by LaughingLeader
+<ins>**To Install**</ins>: Import the .pak file with [BG3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) by LaughingLeader
 
 <ins>**To Uninstall**</ins>: This mod may be difficult to remove once it is used in a campaign. For all intents and purposes, consider this mod required for any campaign it is used in. Make a test save to be sure it's what you want to use! If you really want to remove it, make extra sure that all items are out of the bags before removing the mod. I can't guarantee items won't be lost, so be extra diligent.
 
