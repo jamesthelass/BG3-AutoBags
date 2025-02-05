@@ -30,8 +30,7 @@ Tired of spending hours in camp arranging matches, Sebastian? Can't catch up to 
 
 <ins>187 Items have Root Template Overrides to apply custom tags.</ins> The tags cascade down to any other items that rely on them as parent templates, e.g. BASE_LOOT_ARMOR being tagged as JTL_AB_ARMOR means that all armor pieces will inherit the JTL_AB_ARMOR tag without having to be overridden individually. Unfortunately, not all the items in BG3 are so cleanly defined, so there are still some items which must be individually tagged.
 
-Details on the items tagged are in the attached spreadsheet.
-[ItemsInfo.xlsx](https://github.com/user-attachments/files/18678200/ItemsInfo.xlsx)
+Details on the items tagged are in [my other repository](https://github.com/jamesthelass/BG3-Mod-Info).
 
 ==================================================================
 ## Installation
@@ -43,6 +42,10 @@ Details on the items tagged are in the attached spreadsheet.
 ==================================================================
 ## Future Development Ideas
 ### As of 02/05/2025
+
+* <ins>**AutoBags**</ins>
+  * Adding bags to vendors
+  * Ongoing addition of tagged items
 
 * <ins>**AutoBags Expanded**</ins>: 
   * Armor sorting by weight class
